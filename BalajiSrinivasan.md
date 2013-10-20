@@ -4,7 +4,7 @@ Let's talk about something different today: Silicon Valley's Ultimate Exit.
 
 The US is like Microsoft. In 1998, when Microsoft appeared impregnable, they were most scared of someone doing something completely new in a garage. Larry and Sergey had to start their own company to actually make a difference.
 
-Voice vs. Exit: when a company/country is in decline, you can try to reform (voice), or leave to create a new system/join a competitor (exit). Examples: patch vs. fork, complaint form vs. take business elsewhere, turnaround plan in a company vs. leaving to found startup; voting vs. emigration.
+Voice vs. Exit [1]: when a company/country is in decline, you can try to reform (voice), or leave to create a new system/join a competitor (exit). Examples: patch vs. fork, complaint form vs. take business elsewhere, turnaround plan in a company vs. leaving to found startup; voting vs. emigration.
 
 The US is shaped by exit; so is Silicon Valley. It's an extremely important force and complement to voice, something that gives voice its strength. In Silicon Valley, this includes the Traitorous Eight + founding of Fairchild; noncompetes being unenforceable in CA; etc. Exit amplifies voice because when someone leaves A for B, the other guys in A see that people are leaving, pay more attention to the voice that tells why people are leaving. Exit is something we need to preserve.
 
@@ -18,6 +18,6 @@ The most important things in the next ten years are to use technology to reduce 
 
 Sign up for the next startup MOOC for technological details.
 
-Source : 
+---
 
-Exit, Voice and Loyalty, Responses to Decline in Firms, Organizations, and States, 1970, Albert O. Hirschman, Harvard University Press - http://www.hup.harvard.edu/catalog.php?isbn=9780674276604
+[1] Exit, Voice and Loyalty, Responses to Decline in Firms, Organizations, and States, 1970, Albert O. Hirschman, Harvard University Press - http://www.hup.harvard.edu/catalog.php?isbn=9780674276604
