@@ -17,3 +17,7 @@ The ultimate counterargument is exit, to build an opt-in society, outside the US
 The most important things in the next ten years are to use technology to reduce the barriers to exit, to build a world run by software.
 
 Sign up for the next startup MOOC for technological details.
+
+Source : 
+
+Exit, Voice and Loyalty, Responses to Decline in Firms, Organizations, and States, 1970, Albert O. Hirschman, Harvard University Press - http://www.hup.harvard.edu/catalog.php?isbn=9780674276604
