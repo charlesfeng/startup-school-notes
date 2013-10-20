@@ -1,5 +1,4 @@
-Balaji Srinivasan -- Founder, Counsyl; Lecturer, Stanford startup MOOC
-======================================================================
+## Balaji Srinivasan — Founder, Counsyl; Lecturer, Stanford startup MOOC
 
 Let's talk about something different today: Silicon Valley's Ultimate Exit.
 
@@ -11,7 +10,7 @@ The US is shaped by exit; so is Silicon Valley. It's an extremely important forc
 
 Exit gives people the tools to reduce the influence of bad policies on their lives, without having to get involved in politics. Our ability in SV to reduce the impact of decisions made in DC without lobbying/sloganeering will be especially important in the coming years.
 
-Silicon Valley vs. the Paper Belt (Boston/higher education, NY/newspapers, LA/entertainment, DC/government regulation): we're becoming stronger than all of them combined, reinventing every industry in these cities. The backlash is beginning ("The Paper Jam") -- they're going to try to blame the economy on Silicon Valley, that the iPhone and Google done did it, not the bubbles, bombings, banks, bureaucracy, bailouts. Our counterargument: Silicon Valley reduces prices, the Paper Belt raises them; however, it won't be enough to respond via voice.
+Silicon Valley vs. the Paper Belt (Boston/higher education, NY/newspapers, LA/entertainment, DC/government regulation): we're becoming stronger than all of them combined, reinventing every industry in these cities. The backlash is beginning ("The Paper Jam") — they're going to try to blame the economy on Silicon Valley, that the iPhone and Google done did it, not the bubbles, bombings, banks, bureaucracy, bailouts. Our counterargument: Silicon Valley reduces prices, the Paper Belt raises them; however, it won't be enough to respond via voice.
 
 The ultimate counterargument is exit, to build an opt-in society, outside the US, run by technology. Larry Page wants unregulated experimentation in a small part of the world; Andreessen expects to see an explosion of companies in the years ahead. Private islands, Elon Musk settling Mars, Peter Thiel's sea colony. People who hate technology won't follow you out there. Even using Reddit instead of watching TV is in its own way exiting.
 
