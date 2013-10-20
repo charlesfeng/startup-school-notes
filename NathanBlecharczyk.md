@@ -13,7 +13,7 @@ After the initial attention wears off, you have the trough of sorrow -- you work
 
 Pieces of advice that made a world of difference:
 
-* Paul Bucheidt -- It's better to have a few users that love you than a thousand that like you. Find those few evangelists and build for them.
+* Paul Buchheit -- It's better to have a few users that love you than a thousand that like you. Find those few evangelists and build for them.
 * PG: Do things that don't scale. Go to New York, meet your users.
 
 They went to New York, visited their 40 users, talked to them, took them out for beer, etc -- this rapport allowed them to fully curate their properties, change the descriptions/titles, lower the price, etc.
