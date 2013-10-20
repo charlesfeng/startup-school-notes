@@ -2,7 +2,7 @@
 
 Reading to us from books that have helped him along the way, adding his own thoughts.
 
-_Robert Henri — The Art Spirit_
+_Robert Henri — [The Art Spirit](http://www.amazon.com/dp/0465002633)_
 
 * One of the biggest lessons is how important the work is — not just the end product itself, but also the craft.
 * If you do something meaningful, you are going to have to pay for it and all the work, but you will enjoy it for the rest of your life.
@@ -14,7 +14,7 @@ _Robert Henri — The Art Spirit_
 * In building a team/organization/company, you cannot build anything without a shared sense of purpose. You will wobble, not do anything that is timeless.
 * One of the most important things about what we do is that we're building what we want to see in the world, and making a bet that others want to see the same things in the world. The most important thing is that you have the passion to build for yourself. That's what is infectious and will bring other people to your cause.
 
-_Bill Walsh — The Score Takes Care of Itself_
+_Bill Walsh — [The Score Takes Care of Itself](http://www.amazon.com/dp/1591843472)_
 
 * One of the hardest transitions is to go from individual creation to actually leading a team — Jack fumbled with this along the way.
 * Start first with a philosophy, idea, purpose, mission, then go find people to help you implement it.
