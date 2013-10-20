@@ -4,7 +4,7 @@
 
 In college, did machine learning, sentiment analysis to analyze newspapers to predict the market. Started Sentiment Solutions to continue doing this, but never got a paying customer.
 
-Then joined Google to learn the skills that would make him successful as an entrepeneur. What to do in the ... before profit? Built Google Chrome. Was really valuable because as soon as you released a product, 100k people would use it off the bat. Learned the value of a feedback loop.
+Then joined Google to learn the skills that would make him successful as an entrepreneur. What to do in the ... before profit? Built Google Chrome. Was really valuable because as soon as you released a product, 100k people would use it off the bat. Learned the value of a feedback loop.
 
 November 2007, got lucky enough to see Obama speak at Google. Described how he wanted to take what they were doing at Google — evidence, science, feedback, bring that to the government. Wanted engineers to be involved in making policy. Two weeks later, Dan flew to Chicago, signed up as a volunteer. Joined the New Media team, got an opportunity to run A/B tests, was successful and was made director of analytics. Learned quite a bit: the value of A/B testing: Google, Omniture, etc. There was a lot of pain though in the process — was the initial reason they started Optimizely. But started other companies first.
 
