@@ -4,7 +4,7 @@ Done three startups: low-bandwidth streaming video company that came out of Sili
 
 VMware founded in 1998; created the virtualization industry. Diane left in 2008.
 
-Started with a big vision. Self- and family-funded first funding (Q1 1998); went out for angel money a year later (Q1 1999), tried to get people who understood the technology really well — computer scientists: Bechtolsheim, Hennessey, Cheriton. Subsequently tried to get strategic investors to get into the server market: Michael Dell led the round; was talking to VCs until bubble burst in April 2000.
+Started with a big vision. Self- and family-funded first funding (Q1 1998); went out for angel money a year later (Q1 1999), tried to get people who understood the technology really well — computer scientists: Bechtolsheim, Hennessy, Cheriton. Subsequently tried to get strategic investors to get into the server market: Michael Dell led the round; was talking to VCs until bubble burst in April 2000.
 
 What smaller thing could they do before their big vision? The first milestone that creates value for somebody: a company, a customer — ended up being a desktop product that let you run Windows on Linux, Linux on Windows. Didn't want to require any specific architecture/platform to make concessions (Intel, Microsoft) to not let them have power. Initially sold product over the internet; supported over email; international from day 1.
 
