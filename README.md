@@ -1,7 +1,7 @@
 YC Startup School 2013
 ======================
 
-Here are some notes from [Startup School](http://startupschool.org/).
+Here are some notes from [Startup School](http://startupschool.org/). More notes (made by some awesome remote viewers) are on [Google Docs](https://docs.google.com/document/d/1Xo99mjzc4nyK3J4_GBiba_Kz4h1NPL2Os06JhvbCh5c/).
 
 If you see any mistakes, misrepresentations, or omissions, please contribute! Just shoot a pull request and I'll merge it ASAP.
 
