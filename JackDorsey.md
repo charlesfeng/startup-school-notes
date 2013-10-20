@@ -12,7 +12,7 @@ _Robert Henri — The Art Spirit_
 * We have so many ideas, but what really matters is the work that you put into these ideas.
 * We work so hard to get some sort of acceptance in the world, to get some sort of positive feedback. We look at others and their success seems so fast, just a moment — but it takes years of patience.
 * In building a team/organization/company, you cannot build anything without a shared sense of purpose. You will wobble, not do anything that is timeless.
-* One of the most important things about what we do is that we're building what we want to see in the world, and making a bet that others want to see the same things in the world. The most important thing is that you have the passion to build for yourself. That's what is infections and will bring other people to your cause.
+* One of the most important things about what we do is that we're building what we want to see in the world, and making a bet that others want to see the same things in the world. The most important thing is that you have the passion to build for yourself. That's what is infectious and will bring other people to your cause.
 
 _Bill Walsh — The Score Takes Care of Itself_
 
