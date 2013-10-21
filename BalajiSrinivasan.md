@@ -16,7 +16,7 @@ The ultimate counterargument is exit, to build an opt-in society, outside the US
 
 The most important things in the next ten years are to use technology to reduce the barriers to exit, to build a world run by software.
 
-Sign up for the next startup MOOC for technological details.
+Sign up for the Startup Engineering MOOC watchlist at coursera.org/course/startup for technological details.
 
 ---
 
