@@ -1,5 +1,7 @@
 ## Jessica Livingston @ Ron Conway — Partner, SV Angel
 
+http://youtu.be/7bm-Xj2jMCk
+
 _Twitter first: what was it like when Ron first invested, what he saw in them?_
 
 Ron met Evan Williams because of Google/Blogger, invested in Odio which failed. Ev gave all his investors their money back, which is rare: 40% of SV Angel's startups go out of business, they get nothing back. This resulted in "amazing human feelings" -> Ron pledged to put $75k in whatever Evan did next.
