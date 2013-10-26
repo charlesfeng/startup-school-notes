@@ -1,5 +1,7 @@
 ## Nathan Blecharczyk — Founder, Airbnb
 
+http://youtu.be/Ya0I6oz7q9U
+
 Built the sophisticated software infrastructure behind Airbnb.
 
 Thinking back, there a lot of things that Nathan has done that have helped him to be successful now. Every experience on your journey should be additive — building up to the moment where you go to the Olympics. You need to have confidence to persevere — Nathan got it by doing programming through high school/college.

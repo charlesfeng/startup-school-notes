@@ -1,5 +1,7 @@
 ## Phil Libin — Founder, Evernote
 
+http://youtu.be/KEy_ocXnrdY
+
 What we went through at Evernote in the early years — mistakes we made, lessons we learned. Evernote didn't come out of nothing — was our 3rd startup.
 
 First real one was with a few college roommates: Engine 5. Most important lesson was to have great cofounders. Same team of people at the first, second startup; even at Evernote. Cultivate this group of really brilliant, high-energy, willing to work for free, best friends for life. Kind of have to pay attention — Phil met these at the CS department at Boston University. You shouldn't even make friends with people you don't see starting a company with — why bother? You only have so many best friends, so use those resources wisely. Developing this crew is super huge.

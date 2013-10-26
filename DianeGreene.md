@@ -1,5 +1,7 @@
 ## Diane Greene — Founder, VMware
 
+http://youtu.be/zSEeFxq2X_c
+
 Done three startups: low-bandwidth streaming video company that came out of Silicon Graphics (Microsoft), VMware, another one she's doing right now.
 
 VMware founded in 1998; created the virtualization industry. Diane left in 2008.
