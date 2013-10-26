@@ -1,5 +1,7 @@
 ## Dan Siroker — Co-Founder & CEO, Optimizely
 
+http://youtu.be/k4_3uluQsq4
+
 6th startup school. First time as a presenter. Sharing what he would have wanted to hear the first five times. Story of entrepreneurial career.
 
 In college, did machine learning, sentiment analysis to analyze newspapers to predict the market. Started Sentiment Solutions to continue doing this, but never got a paying customer.

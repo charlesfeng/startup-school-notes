@@ -1,5 +1,7 @@
 ## Balaji Srinivasan — Founder, Counsyl; Lecturer, Stanford startup MOOC
 
+http://youtu.be/cOubCHLXT6A
+
 Let's talk about something different today: Silicon Valley's Ultimate Exit.
 
 The US is like Microsoft. In 1998, when Microsoft appeared impregnable, they were most scared of someone doing something completely new in a garage. Larry and Sergey had to start their own company to actually make a difference.

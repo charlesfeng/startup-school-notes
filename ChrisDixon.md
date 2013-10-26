@@ -1,5 +1,7 @@
 ## Chris Dixon — Andreessen Horowitz; Founder, Hunch, SiteAdvisor
 
+http://youtu.be/akOazwgDiSI
+
 Background: computer programmer —> SiteAdvisor (McAfee) —> Hunch (eBay) —> angel investing —> a16z
 
 Good ideas that look like bad ideas. PG blog post: Peter Thiel mentioned the sweet spot in the middle of good ideas & ideas that seem bad. Why? Good ideas that look like good ideas are already being worked on by big companies. Entrepreneurs are in the business of the leftovers.

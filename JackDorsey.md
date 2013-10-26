@@ -1,5 +1,7 @@
 ## Jack Dorsey — Founder, Square, Twitter
 
+http://youtu.be/wEQawgkCMOU
+
 Reading to us from books that have helped him along the way, adding his own thoughts.
 
 _Robert Henri — [The Art Spirit](http://www.amazon.com/dp/0465002633)_
