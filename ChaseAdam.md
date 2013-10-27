@@ -1,5 +1,7 @@
 ## Chase Adam — Founder, Watsi
 
+http://youtu.be/WlT3UhC7NwQ
+
 Watsi is a nonprofit crowdfunding platform: Kickstarter for healthcare around the world.
 
 Every good presentation falls into one of two categories: informational presentations (smart people saying A + B + C = success); motivational presentations (successful people telling funny stories about their mistakes, highlights of their road to success). Airbnb talked about how they spent their first 1000 days in huge debt, searching high and low for product-market fit.
