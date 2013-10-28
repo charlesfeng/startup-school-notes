@@ -4,7 +4,7 @@ http://youtu.be/MGsalg2f9js
 
 _When you sat down to write Facebook during that reading period, what was the first thing you wrote?_
 
-Built a lot of stuff for himself initially, then after going to college stated wanting to build products that helped him connect with the people around him. Built a course graph his sophomore year to try to figure out what classes he wanted to take, what other people wanted to take. Had thousands of people use it, spending time just browsing other people. Realized that people were really missing from the internet, still think that they're missing from a lot of the software that we built — hence the development platform at Facebook.
+Built a lot of stuff for himself initially, then after going to college started wanting to build products that helped him connect with the people around him. Built a course graph his sophomore year to try to figure out what classes he wanted to take, what other people wanted to take. Had thousands of people use it, spending time just browsing other people. Realized that people were really missing from the internet, still think that they're missing from a lot of the software that we built — hence the development platform at Facebook.
 
 _Why did you win, launching Facebook at schools with competing services?_
 
