@@ -10,7 +10,7 @@ Raising seed money was accomplished through sheer persistence: numerous requests
 
 During the first few months after launch, the Gobble team tried many things that don't scale – even hand-written notes with flowers left at Palo Alto doors. However, something wasn't quite right – getting and keeping customers was proving extremely difficult.
 
-**Torugh of Sorrow**
+**Trough of Sorrow**
 
 Enterprise catering led to revenue growth, but potential Series A investors clearly saw that although 80% of revenue was from enterprise, 100% of the vision was for consumers. They had all ambition, but lost vision, and no Series A materialized after a few months.
 
