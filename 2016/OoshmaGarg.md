@@ -1,6 +1,6 @@
 ## Ooshma Garg – Founder, Gobble
 
-**The Startup Curve:** A really exciting *Launch* often leads to a multi-year *Trough of Sorrow*. After pushing through the `Wiggles of False Hope`, if you have the stamina and the grit, maybe you will reach `The Promised Land`.
+**The Startup Curve:** A really exciting *Launch* often leads to a multi-year *Trough of Sorrow*. After pushing through the *Wiggles of False Hope*, if you have the stamina and the grit, maybe you will reach *The Promised Land*.
 
 **Launch**
 
@@ -34,10 +34,8 @@ Talking to customers led to the idea of a single-pan, 10-minute dinner kit – 
 
 **Takeaways**
 
-*Grit* comes from your core. It is your ability to keep going, even when it hurts. Ooshma had many moments where she felt alone, but her mission and her team strengthened her through those times.
-
-*Experiment*. Many changes and many micro-learnings over many years.
-
+*Grit* comes from your core. It is your ability to keep going, even when it hurts. Ooshma had many moments where she felt alone, but her mission and her team strengthened her through those times.  
+*Experiment*. Many changes and many micro-learnings over many years.  
 *Mission* will allow you to approach everything and everyone with the idea of giving.
 
 Have *Grit* in your core, have *Experiments* in your head, have *Mission* in your heart, and you will be successful.

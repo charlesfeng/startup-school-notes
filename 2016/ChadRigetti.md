@@ -23,15 +23,15 @@ Why the hell would anyone invest in your company when it might not be even possi
 
 Building an organization that has world experts in X, Y, Z is incredibly hard. You're going to have to interface to the best scientists and engineers on the planet in many diverse fields, bring them all into the same company, and impedance match – enable them to talk to each other. But this integration becomes a long term weapon for your organization.
 
-Think long and hard about how you communicate. Rigetti Computing's mission is to `Build the world's most powerful computers to help solve humanity's most important and pressing problems` – something you can really sink your teeth into, something more tangible than moving photons around. it will be your rallying cry, something that really ties together your organization.
+Think long and hard about how you communicate. Rigetti Computing's mission is to *Build the world's most powerful computers to help solve humanity's most important and pressing problems* – something you can really sink your teeth into, something more tangible than moving photons around. it will be your rallying cry, something that really ties together your organization.
 
 Rigetti is full stack: Chip -> System -> Software Platform -> Applications & Services – IBM + Intel + Microsoft + Google all in one.
 
 As yourself: What kind of company do I want to join or found?
 When you do that, some of you will realize you want to do the thing that calls to you, that's worth spending your life on.
 
-As a founder and a leader, there's always a tension between product and company development:
-*Product development:* Drive product from concept to market.
+As a founder and a leader, there's always a tension between product and company development:  
+*Product development:* Drive product from concept to market.  
 *Company development:* Build capabilities and create organizational clarity.
 
 Both are processes of removing entropy, of pumping entropy out of the vision. Balance these competing tensions using this principle; use it especially when you decide who to hire. Some people are adept are reducing entropy, of making better systems, of making systems that are easier to use and support. Others just generate entropy. Make sure you hire the right people.
