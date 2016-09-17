@@ -1,2 +1,0 @@
-## Reid Hoffman – LinkedIn, Greylock
-
