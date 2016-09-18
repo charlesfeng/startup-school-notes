@@ -18,7 +18,7 @@ What are you guys most worried about? How do you get to travelers at the point o
 
 The direct model may not make sense, as people don't travel often and would have to, every time, find this product all over again. There are two categories of products people use: (1) something you use every day, like checking the news or Facebook, or (2) something that answers a mental query, like Google Maps. Feels like the product is in category (2), but it's so infrequent it may be lost in people's minds.
 
-Why not focus on channel partners? Don't let the nice idea of becoming like AirBnB, a hub for travel, cause you to choose an ineffective business. You need consistent growth above all – word of mouth and having a product that people recall takes a long, long time.
+Why not focus on channel partners? Don't let the nice idea of becoming like Airbnb, a hub for travel, cause you to choose an ineffective business. You need consistent growth above all – word of mouth and having a product that people recall takes a long, long time.
 
 Where are the most power hungry users in the system?
 
@@ -36,7 +36,7 @@ Going through the website:
 
 - There's a giant Beta label on the website that makes you not want to sign up – how does this have anything to do with a disaster? People make mistakes; there's nothing you can do to manage expectations except just be very responsive to questions and mistakes. You don't need a Beta logo for that. It's a good problem to have so many users that you're getting issue reports from them.
 
-- Don't have buttons for each side of the marketplace on one page (Join as Professional, Join as Organization). Even AirBnB etc. focus on a single side of the marketplace – for these guys, it should be organizations.
+- Don't have buttons for each side of the marketplace on one page (Join as Professional, Join as Organization). Even Airbnb etc. focus on a single side of the marketplace – for these guys, it should be organizations.
 
 - Call to actions are on the very bottom of the page, below a giant map, large pricing plans, etc. For users who have never heard of them before, it's asking for a lot. Make it easier to sign up.
 

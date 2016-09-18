@@ -85,7 +85,7 @@ As a founder, you almost always feel like you're too late, and you're almost alw
 
 *Say you're 22 years old again. Where do you start?*
 
-Marc would go find the best, hottest company in the Valley, the one that's growing the fastest and has the hottest culture for learning and training. This is a company like AirBnB.
+Marc would go find the best, hottest company in the Valley, the one that's growing the fastest and has the hottest culture for learning and training. This is a company like Airbnb.
 
 *Before that?*
 
