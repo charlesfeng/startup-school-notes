@@ -5,7 +5,7 @@
 VC had become professionalized, but started to stray away from keeping the founders in favor of professional CEOs with business & sales experience. Marc and Ben knew that some of the best companies in history were run by their founders – IBM, Hewlett Packard – and were convinced of the model of a founder-CEO.
 
 a16z was founded with a focus on two things:  
-(1) All of their general partners have built and run companies before, who have gone through the struggle (or the "shit").  
+(1) All of their general partners have built and run companies before, who have gone through [The Struggle](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) (or the "shit").  
 (2) Give founders "superpowers"; giving the ability to be like a professional CEO to a founder who hasn't ever been in that position before. This generally involves a network: business associates, regulators, etc. You "plug into the Matrix" and get a big upgrade as soon as you're in.
 
 **Did you think about this back in 2015/2016, or has it evolved?**
@@ -58,12 +58,12 @@ It's an incredibly useful skill if you learn how; test it out on investors and i
 Silicon Valley has a tendency to think that we don't have anything to learn from the people before us – but Marc thinks that the people who were successful in the past had it harder than we have it now, and so they were likely better.
 
 Books to read:  
-- *The Maverick and his Machine*, the origin story of IBM (about Thomas Watson Sr., an absolute terror who built an extraordinary company)  
-- *Bill and Dave* about HP  
-- *The Wizard of Menlo Park* about Edison and the 2nd Industrial Revolution  
-- *I Invented the Modern Age* about Ford  
+- [*The Maverick and his Machine*](https://www.amazon.com/Maverick-His-Machine-Thomas-Watson/dp/0471679259), the origin story of IBM (about Thomas Watson Sr., an absolute terror who built an extraordinary company)  
+- [*Bill and Dave*](https://www.amazon.com/Bill-Dave-Hewlett-Packard-Greatest/dp/1591841526) about HP  
+- [*The Wizard of Menlo Park*](https://www.amazon.com/Wizard-Menlo-Park-Thomas-Invented/dp/1400047633) about Edison and the 2nd Industrial Revolution  
+- [*I Invented the Modern Age*](https://www.amazon.com/Invented-Modern-Age-Rise-Henry/dp/1451645589) about Ford  
 - *Da Vinci's Robots*  
-- *The Lunar Men* about James Watt and the Lunar Society
+- [*The Lunar Men*](https://www.amazon.com/Lunar-Men-Friends-Curiosity-Changed/dp/0374528888) about James Watt and the Lunar Society
 
 There is a repeating pattern of the world is the way it is, people take it for granted, but a group of people take on the hard task of transforming society.
 
