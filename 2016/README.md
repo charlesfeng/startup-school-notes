@@ -12,4 +12,4 @@ If you see any mistakes, misrepresentations, or omissions, please contribute! Ju
 3:00 PM [**Pitch Practice**](PitchPractice.md) with Sam Altman & Paul Buchheit  
 3:30 PM [**Marc Andreessen**](MarcAndreessen.md) · Founder, a16z  
 4:30 PM [**Reid Hoffman**](ReidHoffman.md) · LinkedIn, Greylock  
-5:00 PM Y Combinator [**Partner Q&A**](PartnerQA.md)
+5:00 PM [**Y Combinator Partner Q&A**](PartnerQA.md)
